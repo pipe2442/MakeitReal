@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap');
+
+body {
+    background: black;
+    font-family: 'Permanent Marker', cursive; 
+}
+
+.contenedor {
+    background-image: url('foto/ciudad.jpg');
+    background-size: cover;
+    padding: 200px 100px;
+    margin: 100px;
+    background-attachment: fixed;
+
+      
+}
+
+h1{
+    text-align: center;
+    color:white;
+    
+}
+
+.imagen {
+    margin-top: 20%; 
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    background: white;
+    padding: 5px;
+    text-align: center;
+}
