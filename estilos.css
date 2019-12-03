@@ -6,7 +6,7 @@ body {
 }
 
 .contenedor {
-    background-image: url(foto/ciudad.jpg);
+    background-image: url(FOTO/arquitectura.jpg);
     background-size: cover;
     padding: 200px 100px;
     margin: 100px;
